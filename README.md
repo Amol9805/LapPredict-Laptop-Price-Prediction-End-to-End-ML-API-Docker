@@ -1,4 +1,4 @@
-# 💻 LapPredict: Laptop Price Prediction (End-to-End ML Deployment)
+# 💻 LapPredict: Laptop Price Prediction (End-to-End ML Deployment)  
 
 ## 🔷 Project Overview:
 LapPredict is an **end-to-end machine learning solution** designed to predict laptop prices using hardware specifications and brand attributes.  
